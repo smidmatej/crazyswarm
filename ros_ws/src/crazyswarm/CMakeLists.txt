@@ -79,6 +79,7 @@ add_message_files(
   TrajectoryPolynomialPiece.msg
   Hover.msg
   Position.msg
+  FullState13.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
